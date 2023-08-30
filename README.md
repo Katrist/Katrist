@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Katrist
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Luau
+- 🌱 I’m currently mastering Luau
 
 <!---
 Katrist/Katrist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
