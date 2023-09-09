@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Katrist
-- 👀 I’m a Roblox programmer
+- 👀 I’m a Roblox game developer
 - 🌱 I’m currently mastering Luau
 
 <!---
